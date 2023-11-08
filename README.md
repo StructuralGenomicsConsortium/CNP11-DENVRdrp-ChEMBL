@@ -1,5 +1,5 @@
-# CNP11-DENVRdrp-ChEMBL
-An [SGC](https://www.thesgc.org/) Open Chemical Networks Project (number 11) devoted to the DENV Rdrp, focusing specifically on identifying a possible hit in the ChEMBL database.
+# CNP9-DENVRdrp-ChEMBL
+An [SGC](https://www.thesgc.org/) Open Chemical Networks Project (number 9) devoted to the DENV Rdrp, focusing specifically on identifying a possible hit in the ChEMBL database.
 
 You contribute synthetic chemistry and in return the SGC offers biology. Together we can generate tool compounds to understand biology and validate drug targets to help cure disease. Everything is open, with all content governed by a CC-BY-4.0 licence.
 
