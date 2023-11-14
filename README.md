@@ -13,8 +13,9 @@ If you'd like to contact someone to talk about contributing, then write somethin
 
 Some people involved in this CNP:  
 Professor Matthew Todd, UCL, Head of Chemistry Networks at the SGC @mattodd  
+Professor Tim Willson, University of North Carolina Chapel Hill @tmw20653   
 Dr Rebecka Isaksson, UCL, chemistry @RebeckaIsaksson  
-Dr Anwar Hossain, UNC, chemistry @ahsgc  
+Dr Anwar Hossain, University of North Carolina Chapel Hill, chemistry @ahsgc  
  
 
 [Pharma Champion](https://github.com/StructuralGenomicsConsortium/Chemistry_TechOps_HowTo/wiki/Pharma-Industry-Champions): Vacant.    
