@@ -16,9 +16,9 @@ Professor Matthew Todd, University College London, Head of Chemistry Networks at
 Professor Tim Willson, University of North Carolina Chapel Hill - @tmw20653  
 Dr Rebecka Isaksson, Univeristy College London, chemistry lead - @RebeckaIsaksson  
 Dr Peter Brown, University North Carolina Chapel Hill, project manager    
-Dr Tina Leisner, University North Carolina Chapel Hill, biological testing (protein inhibition)
-Prof Alec Hirsch, Oregon Health & Science Univeristy
-Dr Jessica Smith, Oregon Health & Science University, biological testing (antiviral assay)  
+Dr Tina Leisner, University North Carolina Chapel Hill, biological testing (protein inhibition)  
+Prof Alec Hirsch, Oregon Health & Science Univeristy  
+Dr Jessica Smith, Oregon Health & Science University, biological testing (antiviral assay)   
 Dr Anwar Hossain, University North Carolina Chapel Hill, compound managment - @ahsgc   
  
 
